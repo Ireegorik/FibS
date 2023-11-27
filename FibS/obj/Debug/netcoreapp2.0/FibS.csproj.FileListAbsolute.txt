@@ -1,0 +1,11 @@
+C:\Users\Homer\source\repos\FibS\FibS\bin\Debug\netcoreapp2.0\FibS.deps.json
+C:\Users\Homer\source\repos\FibS\FibS\bin\Debug\netcoreapp2.0\FibS.runtimeconfig.json
+C:\Users\Homer\source\repos\FibS\FibS\bin\Debug\netcoreapp2.0\FibS.runtimeconfig.dev.json
+C:\Users\Homer\source\repos\FibS\FibS\bin\Debug\netcoreapp2.0\FibS.dll
+C:\Users\Homer\source\repos\FibS\FibS\bin\Debug\netcoreapp2.0\FibS.pdb
+C:\Users\Homer\source\repos\FibS\FibS\obj\Debug\netcoreapp2.0\FibS.csprojAssemblyReference.cache
+C:\Users\Homer\source\repos\FibS\FibS\obj\Debug\netcoreapp2.0\FibS.csproj.CoreCompileInputs.cache
+C:\Users\Homer\source\repos\FibS\FibS\obj\Debug\netcoreapp2.0\FibS.AssemblyInfoInputs.cache
+C:\Users\Homer\source\repos\FibS\FibS\obj\Debug\netcoreapp2.0\FibS.AssemblyInfo.cs
+C:\Users\Homer\source\repos\FibS\FibS\obj\Debug\netcoreapp2.0\FibS.dll
+C:\Users\Homer\source\repos\FibS\FibS\obj\Debug\netcoreapp2.0\FibS.pdb
